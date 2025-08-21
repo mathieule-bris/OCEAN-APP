@@ -8,6 +8,8 @@ import pickle
 #from ProcessRAWv2 import *
 import numpy.random as rd
 import matplotlib.pyplot as plt
+import ipywidgets as widgets
+from scipy.optimize import curve_fit
 
 
 
