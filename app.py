@@ -60,7 +60,7 @@ if page == "Home":
     This app is built in Python using Streamlit.
     """)
 
-    st.image("assets/TAO_GRID.png",  caption="TAO/TRITON Array in the Tropical Pacific", use_container_width=True)  
+    st.image("assets/TAO_GRID.png",  caption="TAO/TRITON Array in the Tropical Pacific")  
 
     st.markdown("""
     All the bibliography used to made this app is available in the `references.bib` file, on the depository https://github.com/mathieule-bris/OCEAN-APP along with the report written in the context of this work.
